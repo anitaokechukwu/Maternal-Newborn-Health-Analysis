@@ -15,6 +15,8 @@ Transforming maternal and newborn healthcare data into actionable insights throu
 
 ![Maternal Health Dashboard](Images/dashboard-overview.png)
 
+🔗 View Interactive Dashboard: [Click Here](https://app.powerbi.com/view?r=example-link)
+
 ---
 
 # 📖 Project Overview
