@@ -13,7 +13,7 @@ Transforming maternal and newborn healthcare data into actionable insights throu
 
 > 📌 Replace the image below with your dashboard screenshot after uploading it to the **Images** folder.
 
-![Maternal Health Dashboard](Images/dashboard-overview.png)
+![Maternal Health Dashboard](Images/dashboard-overview 03.png)
 
 🔗 View Interactive Dashboard: [Click Here](https://app.powerbi.com/view?r=example-link)
 
